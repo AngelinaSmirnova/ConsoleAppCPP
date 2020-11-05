@@ -1,0 +1,12 @@
+﻿  AlgorithmOfEquation.cpp
+  ConsoleApp.cpp
+  Equation.cpp
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(11,37): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(13,33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(15,39): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(26,35): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(28,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(43,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\C++\ConsoleApp\ConsoleApp\Equation.cpp(45,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ConsoleApp.vcxproj -> D:\Программирование\C++\ConsoleApp\Debug\ConsoleApp.exe
